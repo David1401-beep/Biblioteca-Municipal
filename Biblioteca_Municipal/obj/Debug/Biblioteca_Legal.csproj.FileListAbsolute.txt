@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Biblioteca_Legal\bin\Debug\Biblioteca_Legal.exe.config
+C:\Users\usuario\Desktop\Biblioteca_Legal\bin\Debug\Biblioteca_Legal.exe
+C:\Users\usuario\Desktop\Biblioteca_Legal\bin\Debug\Biblioteca_Legal.pdb
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.Properties.Resources.resources
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.exe
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.pdb
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.exe.config
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.Formularios.frmDashboardMenu.resources
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.Formularios.frmGestiondeLibros.resources
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.Formularios.frmGestiondeUsuario.resources
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.frmLogin.resources
+C:\Users\usuario\Desktop\Biblioteca_Legal\obj\Debug\Biblioteca_Legal.Formularios.frmGestionPrestamosDevoluciones.resources

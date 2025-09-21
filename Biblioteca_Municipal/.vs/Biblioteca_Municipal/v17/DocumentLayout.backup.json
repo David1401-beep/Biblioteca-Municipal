@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|c:\\users\\usuario\\desktop\\biblioteca_legal\\formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:24:03.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDashboardMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmDashboardMenu.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmDashboardMenu.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmDashboardMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmDashboardMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:45:07.58Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGestiondeLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeLibros.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestiondeLibros.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:49:00.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeUsuario.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestiondeUsuario.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:06:25.955Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestionPrestamosDevoluciones.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestionPrestamosDevoluciones.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:20:15.225Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:25:34.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.Designer.cs",
+              "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:24:30.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
