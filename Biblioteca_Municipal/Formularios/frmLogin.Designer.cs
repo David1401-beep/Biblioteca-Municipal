@@ -31,7 +31,7 @@
             this.pnlLogin = new System.Windows.Forms.Panel();
             this.lbRecuperarContraseña = new System.Windows.Forms.LinkLabel();
             this.btnIniciarSesion = new System.Windows.Forms.Button();
-            this.txtContraseña = new System.Windows.Forms.TextBox();
+            this.txtContraseñaLogin = new System.Windows.Forms.TextBox();
             this.txtCorreoElectronico = new System.Windows.Forms.TextBox();
             this.lblContraseña = new System.Windows.Forms.Label();
             this.lblCorreoElectronico = new System.Windows.Forms.Label();
@@ -44,7 +44,7 @@
             // 
             this.pnlLogin.Controls.Add(this.lbRecuperarContraseña);
             this.pnlLogin.Controls.Add(this.btnIniciarSesion);
-            this.pnlLogin.Controls.Add(this.txtContraseña);
+            this.pnlLogin.Controls.Add(this.txtContraseñaLogin);
             this.pnlLogin.Controls.Add(this.txtCorreoElectronico);
             this.pnlLogin.Controls.Add(this.lblContraseña);
             this.pnlLogin.Controls.Add(this.lblCorreoElectronico);
@@ -74,12 +74,12 @@
             this.btnIniciarSesion.Text = "Iniciar Sesisón";
             this.btnIniciarSesion.UseVisualStyleBackColor = true;
             // 
-            // txtContraseña
+            // txtContraseñaLogin
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(43, 262);
-            this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(376, 24);
-            this.txtContraseña.TabIndex = 4;
+            this.txtContraseñaLogin.Location = new System.Drawing.Point(43, 262);
+            this.txtContraseñaLogin.Name = "txtContraseñaLogin";
+            this.txtContraseñaLogin.Size = new System.Drawing.Size(376, 24);
+            this.txtContraseñaLogin.TabIndex = 4;
             // 
             // txtCorreoElectronico
             // 
@@ -136,7 +136,7 @@
         private System.Windows.Forms.Panel pnlLogin;
         private System.Windows.Forms.LinkLabel lbRecuperarContraseña;
         private System.Windows.Forms.Button btnIniciarSesion;
-        private System.Windows.Forms.TextBox txtContraseña;
+        private System.Windows.Forms.TextBox txtContraseñaLogin;
         private System.Windows.Forms.TextBox txtCorreoElectronico;
         private System.Windows.Forms.Label lblContraseña;
         private System.Windows.Forms.Label lblCorreoElectronico;

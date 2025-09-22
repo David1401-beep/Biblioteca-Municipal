@@ -1,33 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\",
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|c:\\users\\usuario\\desktop\\biblioteca_legal\\formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmdashboardmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestiondelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestiondeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmgestionprestamosdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|c:\\users\\usuario\\desktop\\biblioteca-municipal\\biblioteca_municipal\\formularios\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Municipal.csproj|solutionrelative:formularios\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C75BA89-B013-45C3-8CF0-3732F40578BB}|Biblioteca_Legal.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,28 +62,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Biblioteca_Legal\\Formularios\\frmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T16:24:03.712Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "frmDashboardMenu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmDashboardMenu.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmDashboardMenu.cs",
               "RelativeDocumentMoniker": "Formularios\\frmDashboardMenu.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmDashboardMenu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmDashboardMenu.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmDashboardMenu.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\frmDashboardMenu.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T16:45:07.58Z",
               "IsPinned": true,
@@ -67,39 +91,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "frmGestiondeLibros.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeLibros.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeLibros.cs",
               "RelativeDocumentMoniker": "Formularios\\frmGestiondeLibros.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Biblioteca_Legal\\Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T16:49:00.68Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "frmGestiondeUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeUsuario.cs",
               "RelativeDocumentMoniker": "Formularios\\frmGestiondeUsuario.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Biblioteca_Legal\\Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T17:06:25.955Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestionPrestamosDevoluciones.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestionPrestamosDevoluciones.cs",
               "RelativeDocumentMoniker": "Formularios\\frmGestionPrestamosDevoluciones.cs",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Biblioteca_Legal\\Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T17:20:15.225Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmCategorias.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCategorias.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmCategorias.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\frmCategorias.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:52:03.812Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmEditoriales.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmEditoriales.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmEditoriales.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\frmEditoriales.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:00:28.249Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:50:32.104Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGestiondeLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeLibros.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestiondeLibros.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\frmGestiondeLibros.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:50:21.192Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeUsuario.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestiondeUsuario.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmGestiondeUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:50:19.544Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestionPrestamosDevoluciones.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmGestionPrestamosDevoluciones.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmGestionPrestamosDevoluciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:50:12.649Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Bookmark",
@@ -107,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Conexion.cs",
               "RelativeDocumentMoniker": "Conexion.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Conexion.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Conexion.cs",
               "RelativeToolTip": "Conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmLogin.Designer.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca_Legal\\Formularios\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Biblioteca-Municipal\\Biblioteca_Municipal\\Formularios\\frmLogin.Designer.cs",
               "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

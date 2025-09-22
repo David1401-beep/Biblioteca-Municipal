@@ -8,5 +8,6 @@ namespace Biblioteca_Legal
 {
     internal class Conexion
     {
+        
     }
 }

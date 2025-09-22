@@ -29,21 +29,21 @@
         private void InitializeComponent()
         {
             this.pnlGestionLibros = new System.Windows.Forms.Panel();
-            this.dgvLibros = new System.Windows.Forms.DataGridView();
-            this.lblGestionLibros = new System.Windows.Forms.Label();
-            this.lblTitulo = new System.Windows.Forms.Label();
-            this.lblAutor = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.btnRegistrar = new System.Windows.Forms.Button();
-            this.btnActualizar = new System.Windows.Forms.Button();
-            this.btnEliminar = new System.Windows.Forms.Button();
-            this.txtTitulo = new System.Windows.Forms.TextBox();
-            this.txtAutor = new System.Windows.Forms.TextBox();
-            this.txtCategoria = new System.Windows.Forms.TextBox();
-            this.txtEditorial = new System.Windows.Forms.TextBox();
             this.txtAño = new System.Windows.Forms.TextBox();
+            this.txtEditorial = new System.Windows.Forms.TextBox();
+            this.txtCategoria = new System.Windows.Forms.TextBox();
+            this.txtAutor = new System.Windows.Forms.TextBox();
+            this.txtTitulo = new System.Windows.Forms.TextBox();
+            this.btnEliminarLibro = new System.Windows.Forms.Button();
+            this.btnActualizarLibro = new System.Windows.Forms.Button();
+            this.btnRegistrarLibro = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.lblAutor = new System.Windows.Forms.Label();
+            this.lblTitulo = new System.Windows.Forms.Label();
+            this.lblGestionLibros = new System.Windows.Forms.Label();
+            this.dgvLibros = new System.Windows.Forms.DataGridView();
             this.pnlGestionLibros.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLibros)).BeginInit();
             this.SuspendLayout();
@@ -56,9 +56,9 @@
             this.pnlGestionLibros.Controls.Add(this.txtCategoria);
             this.pnlGestionLibros.Controls.Add(this.txtAutor);
             this.pnlGestionLibros.Controls.Add(this.txtTitulo);
-            this.pnlGestionLibros.Controls.Add(this.btnEliminar);
-            this.pnlGestionLibros.Controls.Add(this.btnActualizar);
-            this.pnlGestionLibros.Controls.Add(this.btnRegistrar);
+            this.pnlGestionLibros.Controls.Add(this.btnEliminarLibro);
+            this.pnlGestionLibros.Controls.Add(this.btnActualizarLibro);
+            this.pnlGestionLibros.Controls.Add(this.btnRegistrarLibro);
             this.pnlGestionLibros.Controls.Add(this.label5);
             this.pnlGestionLibros.Controls.Add(this.label4);
             this.pnlGestionLibros.Controls.Add(this.label3);
@@ -71,62 +71,76 @@
             this.pnlGestionLibros.Size = new System.Drawing.Size(802, 259);
             this.pnlGestionLibros.TabIndex = 0;
             // 
-            // dgvLibros
+            // txtAño
             // 
-            this.dgvLibros.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvLibros.Location = new System.Drawing.Point(0, 258);
-            this.dgvLibros.Name = "dgvLibros";
-            this.dgvLibros.Size = new System.Drawing.Size(802, 192);
-            this.dgvLibros.TabIndex = 1;
+            this.txtAño.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAño.Location = new System.Drawing.Point(103, 172);
+            this.txtAño.Name = "txtAño";
+            this.txtAño.Size = new System.Drawing.Size(354, 21);
+            this.txtAño.TabIndex = 14;
             // 
-            // lblGestionLibros
+            // txtEditorial
             // 
-            this.lblGestionLibros.AutoSize = true;
-            this.lblGestionLibros.Location = new System.Drawing.Point(3, 7);
-            this.lblGestionLibros.Name = "lblGestionLibros";
-            this.lblGestionLibros.Size = new System.Drawing.Size(151, 20);
-            this.lblGestionLibros.TabIndex = 0;
-            this.lblGestionLibros.Text = "Gestion de Libros";
+            this.txtEditorial.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtEditorial.Location = new System.Drawing.Point(103, 143);
+            this.txtEditorial.Name = "txtEditorial";
+            this.txtEditorial.Size = new System.Drawing.Size(354, 21);
+            this.txtEditorial.TabIndex = 13;
             // 
-            // lblTitulo
+            // txtCategoria
             // 
-            this.lblTitulo.AutoSize = true;
-            this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(12, 52);
-            this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(46, 16);
-            this.lblTitulo.TabIndex = 1;
-            this.lblTitulo.Text = "Titulo";
+            this.txtCategoria.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCategoria.Location = new System.Drawing.Point(103, 110);
+            this.txtCategoria.Name = "txtCategoria";
+            this.txtCategoria.Size = new System.Drawing.Size(354, 21);
+            this.txtCategoria.TabIndex = 12;
             // 
-            // lblAutor
+            // txtAutor
             // 
-            this.lblAutor.AutoSize = true;
-            this.lblAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAutor.Location = new System.Drawing.Point(12, 81);
-            this.lblAutor.Name = "lblAutor";
-            this.lblAutor.Size = new System.Drawing.Size(43, 16);
-            this.lblAutor.TabIndex = 2;
-            this.lblAutor.Text = "Autor";
+            this.txtAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtAutor.Location = new System.Drawing.Point(103, 76);
+            this.txtAutor.Name = "txtAutor";
+            this.txtAutor.Size = new System.Drawing.Size(354, 21);
+            this.txtAutor.TabIndex = 11;
             // 
-            // label3
+            // txtTitulo
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(12, 113);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(75, 16);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Categoria";
+            this.txtTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTitulo.Location = new System.Drawing.Point(103, 47);
+            this.txtTitulo.Name = "txtTitulo";
+            this.txtTitulo.Size = new System.Drawing.Size(354, 21);
+            this.txtTitulo.TabIndex = 10;
             // 
-            // label4
+            // btnEliminarLibro
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(12, 143);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(65, 16);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Editorial";
+            this.btnEliminarLibro.BackColor = System.Drawing.Color.Crimson;
+            this.btnEliminarLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminarLibro.Location = new System.Drawing.Point(328, 206);
+            this.btnEliminarLibro.Name = "btnEliminarLibro";
+            this.btnEliminarLibro.Size = new System.Drawing.Size(129, 44);
+            this.btnEliminarLibro.TabIndex = 9;
+            this.btnEliminarLibro.Text = "Eliminar";
+            this.btnEliminarLibro.UseVisualStyleBackColor = false;
+            // 
+            // btnActualizarLibro
+            // 
+            this.btnActualizarLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizarLibro.Location = new System.Drawing.Point(173, 206);
+            this.btnActualizarLibro.Name = "btnActualizarLibro";
+            this.btnActualizarLibro.Size = new System.Drawing.Size(129, 44);
+            this.btnActualizarLibro.TabIndex = 8;
+            this.btnActualizarLibro.Text = "Actualizar";
+            this.btnActualizarLibro.UseVisualStyleBackColor = true;
+            // 
+            // btnRegistrarLibro
+            // 
+            this.btnRegistrarLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRegistrarLibro.Location = new System.Drawing.Point(15, 206);
+            this.btnRegistrarLibro.Name = "btnRegistrarLibro";
+            this.btnRegistrarLibro.Size = new System.Drawing.Size(129, 44);
+            this.btnRegistrarLibro.TabIndex = 7;
+            this.btnRegistrarLibro.Text = "Registrar";
+            this.btnRegistrarLibro.UseVisualStyleBackColor = true;
             // 
             // label5
             // 
@@ -138,76 +152,62 @@
             this.label5.TabIndex = 5;
             this.label5.Text = "Año";
             // 
-            // btnRegistrar
+            // label4
             // 
-            this.btnRegistrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrar.Location = new System.Drawing.Point(15, 206);
-            this.btnRegistrar.Name = "btnRegistrar";
-            this.btnRegistrar.Size = new System.Drawing.Size(129, 44);
-            this.btnRegistrar.TabIndex = 7;
-            this.btnRegistrar.Text = "Registrar";
-            this.btnRegistrar.UseVisualStyleBackColor = true;
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(12, 143);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(65, 16);
+            this.label4.TabIndex = 4;
+            this.label4.Text = "Editorial";
             // 
-            // btnActualizar
+            // label3
             // 
-            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnActualizar.Location = new System.Drawing.Point(173, 206);
-            this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(129, 44);
-            this.btnActualizar.TabIndex = 8;
-            this.btnActualizar.Text = "Actualizar";
-            this.btnActualizar.UseVisualStyleBackColor = true;
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(12, 113);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(75, 16);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "Categoria";
             // 
-            // btnEliminar
+            // lblAutor
             // 
-            this.btnEliminar.BackColor = System.Drawing.Color.Crimson;
-            this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEliminar.Location = new System.Drawing.Point(328, 206);
-            this.btnEliminar.Name = "btnEliminar";
-            this.btnEliminar.Size = new System.Drawing.Size(129, 44);
-            this.btnEliminar.TabIndex = 9;
-            this.btnEliminar.Text = "Eliminar";
-            this.btnEliminar.UseVisualStyleBackColor = false;
+            this.lblAutor.AutoSize = true;
+            this.lblAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAutor.Location = new System.Drawing.Point(12, 81);
+            this.lblAutor.Name = "lblAutor";
+            this.lblAutor.Size = new System.Drawing.Size(43, 16);
+            this.lblAutor.TabIndex = 2;
+            this.lblAutor.Text = "Autor";
             // 
-            // txtTitulo
+            // lblTitulo
             // 
-            this.txtTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTitulo.Location = new System.Drawing.Point(103, 47);
-            this.txtTitulo.Name = "txtTitulo";
-            this.txtTitulo.Size = new System.Drawing.Size(354, 21);
-            this.txtTitulo.TabIndex = 10;
+            this.lblTitulo.AutoSize = true;
+            this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.Location = new System.Drawing.Point(12, 52);
+            this.lblTitulo.Name = "lblTitulo";
+            this.lblTitulo.Size = new System.Drawing.Size(46, 16);
+            this.lblTitulo.TabIndex = 1;
+            this.lblTitulo.Text = "Titulo";
             // 
-            // txtAutor
+            // lblGestionLibros
             // 
-            this.txtAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAutor.Location = new System.Drawing.Point(103, 76);
-            this.txtAutor.Name = "txtAutor";
-            this.txtAutor.Size = new System.Drawing.Size(354, 21);
-            this.txtAutor.TabIndex = 11;
+            this.lblGestionLibros.AutoSize = true;
+            this.lblGestionLibros.Location = new System.Drawing.Point(3, 7);
+            this.lblGestionLibros.Name = "lblGestionLibros";
+            this.lblGestionLibros.Size = new System.Drawing.Size(151, 20);
+            this.lblGestionLibros.TabIndex = 0;
+            this.lblGestionLibros.Text = "Gestion de Libros";
             // 
-            // txtCategoria
+            // dgvLibros
             // 
-            this.txtCategoria.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCategoria.Location = new System.Drawing.Point(103, 110);
-            this.txtCategoria.Name = "txtCategoria";
-            this.txtCategoria.Size = new System.Drawing.Size(354, 21);
-            this.txtCategoria.TabIndex = 12;
-            // 
-            // txtEditorial
-            // 
-            this.txtEditorial.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEditorial.Location = new System.Drawing.Point(103, 143);
-            this.txtEditorial.Name = "txtEditorial";
-            this.txtEditorial.Size = new System.Drawing.Size(354, 21);
-            this.txtEditorial.TabIndex = 13;
-            // 
-            // txtAño
-            // 
-            this.txtAño.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAño.Location = new System.Drawing.Point(103, 172);
-            this.txtAño.Name = "txtAño";
-            this.txtAño.Size = new System.Drawing.Size(354, 21);
-            this.txtAño.TabIndex = 14;
+            this.dgvLibros.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvLibros.Location = new System.Drawing.Point(0, 258);
+            this.dgvLibros.Name = "dgvLibros";
+            this.dgvLibros.Size = new System.Drawing.Size(802, 192);
+            this.dgvLibros.TabIndex = 1;
             // 
             // frmGestiondeLibros
             // 
@@ -229,9 +229,9 @@
 
         private System.Windows.Forms.Panel pnlGestionLibros;
         private System.Windows.Forms.DataGridView dgvLibros;
-        private System.Windows.Forms.Button btnEliminar;
-        private System.Windows.Forms.Button btnActualizar;
-        private System.Windows.Forms.Button btnRegistrar;
+        private System.Windows.Forms.Button btnEliminarLibro;
+        private System.Windows.Forms.Button btnActualizarLibro;
+        private System.Windows.Forms.Button btnRegistrarLibro;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
